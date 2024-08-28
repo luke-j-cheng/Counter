@@ -5,9 +5,11 @@
 <br/>
 <b> Welcome to the repository for my first ever project!
 <br/> I wanted to do a FPGA/verilog project revolving about something that interests me, so I decided to make a basketball scorekeeper!
-<br/> Click the link below to watch a video where I show the board and dive into the code!</b>
+<br/> Click
+<a href="https://www.youtube.com/@lukecheng6644">here</a>
+to watch a video where I show the board and dive into the code!</b>
 <br/>
-<b>[Video](https://www.youtube.com/@lukecheng6644)
+
 
 <h2> How The Board Works </h2>
 <b>
