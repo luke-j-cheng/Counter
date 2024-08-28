@@ -8,7 +8,7 @@
 <br/> Click
 <a href="https://www.youtube.com/@lukecheng6644">here</a>
 to watch a video where I show the board and dive into the code!
-<br/> The constraints and module files are available to view in this repository
+<br/> The constraints and module files are available to view in this repository (testbenches NOT included).
 </b>
 
 
@@ -23,6 +23,6 @@ to watch a video where I show the board and dive into the code!
 <h2> Resources </h2>
 <b>
  Here are some resources that helped me complete this project: 
- <br/> <a href="https://www.fpga4student.com/2017/04/simple-debouncing-verilog-code-for.html">Debouncer for Button</a>
- <br/> <a href="https://www.youtube.com/watch?v=ORhWNj8li4E">7 Segment Display</a>
+ <br/> - <a href="https://www.fpga4student.com/2017/04/simple-debouncing-verilog-code-for.html">Debouncer for Button</a>
+ <br/> - <a href="https://www.youtube.com/watch?v=ORhWNj8li4E">7 Segment Display</a>
 </b>
